@@ -1,0 +1,78 @@
+{% extends 'libsuite/base.html' %}
+{% load static %}
+{% block content %}    
+    <div class="site-section ftco-subscribe-1 site-blocks-cover pb-4">
+        <div class="container">
+          <div class="row align-items-end">
+            <div class="col-lg-7">
+              <h2 class="mb-0">About the LIRC</h2>
+            </div>
+          </div>
+        </div>
+      </div> 
+    
+
+    <div class="custom-breadcrumns border-bottom">
+      <div class="container">
+        <a href="/">Home</a>
+        <span class="mx-3 icon-keyboard_arrow_right"></span>
+        <span class="current">About Us</span>
+      </div>
+    </div>
+
+    <div class="container pt-5 mb-5">
+            <div class="row">
+              <div class="col-lg-5">
+                <h2 class="section-title-underline">
+                  <span>How the LIRC came together</span>
+                </h2>
+              </div>
+              <div class="col-lg-7">
+                {% for book in books %}
+					<h1>{{ book.title }}</h1>
+					<p>By {{ book.author }} </p>
+					<p>{{ book.image }}</p>
+				{% endfor %}
+              </div>
+          </div> 
+    
+<!--     <form action="{% url 'libsuite-allbooks' %}}" class="search form-input" role="search">
+      <label class="visuallyhidden" for="id_q">Search:</label>
+        <input type="search" name="q" placeholder="Search Books" id="id_q">
+
+        <button type="submit">
+          <i class="icon icon-search"></i>
+          <span class="visuallyhidden">Search</span>
+        </button>
+    </form> -->
+
+    <div class="site-section">
+        <div class="container">
+            <div class="row mb-5">
+                <div class="col-lg-6 mb-lg-0 mb-4">
+                    <img src="{% static 'libsuite/images/home1.jpg' %}" alt="Image" class="img-fluid"> 
+                </div>
+                <div class="col-lg-5 ml-auto align-self-center">
+                    <h2 class="section-title-underline mb-5">
+                        <span>Why use the LIRC instead?</span>
+                    </h2>
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. At itaque dolore libero corrupti! Itaque, delectus?</p>
+                    <p>Modi sit dolor repellat esse! Sed necessitatibus itaque libero odit placeat nesciunt, voluptatum totam facere.</p>
+                </div>
+            </div>
+
+            <div class="row">
+                    <div class="col-lg-6 order-1 order-lg-2 mb-4 mb-lg-0">
+                        <img src="{% static 'libsuite/images/home1.jpg' %}" alt="Image" class="img-fluid"> 
+                    </div>
+                    <div class="col-lg-5 mr-auto align-self-center order-2 order-lg-1">
+                        <h2 class="section-title-underline mb-5">
+                            <span>How to get around?</span>
+                        </h2>
+                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. At itaque dolore libero corrupti! Itaque, delectus?</p>
+                        <p>Modi sit dolor repellat esse! Sed necessitatibus itaque libero odit placeat nesciunt, voluptatum totam facere.</p>
+                    </div>
+                </div>
+        </div>
+    </div>
+{% endblock content %}
