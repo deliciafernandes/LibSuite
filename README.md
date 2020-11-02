@@ -1,6 +1,6 @@
-# LibSuite : A Library Management Website
+# LibSuite : A Library Management Website :books:
 
-<img src="https://images.pexels.com/photos/757855/pexels-photo-757855.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=200&w=1000" alt="Banner Image">
+<img src="https://images.pexels.com/photos/1319854/pexels-photo-1319854.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=400&w=1260" alt="Banner Image">
 
 # Table of Contents
 1. <a href="#What is LibSuite?">What is LibSuite?</a>
@@ -50,16 +50,16 @@ The main files working in backend in the following order :
 <table style="width:1920px; border: black; margin: 0px auto;" class="skinny" cellspacing="0" cellpadding="0">
     <tr>
         <td>
-            <img src="results/home1.png" alt="" width="200" height="100">
+            <img src="results/home1.png" alt="Image" width="700" height="100">
         </td>
         <td>
-            <img src="results/home2.png" alt="" width="200" height="100">
+            <img src="results/home2.png" alt="Image" width="700" height="100">
         </td>
         <td>
-            <img src="results/home3.png" alt="" width="200" height="100">
+            <img src="results/home3.png" alt="Image" width="700" height="100">
         </td>
         <td>
-            <img src="results/about.png" alt="" width="200" height="100">
+            <img src="results/about.png" alt="Image" width="700" height="100">
         </td>
     </tr>
     <tr>
@@ -70,16 +70,16 @@ The main files working in backend in the following order :
     </tr>
     <tr>
         <td>
-            <img src="results/login.png" alt="" width="200" height="100">
+            <img src="results/login.png" alt="Image" width="700" height="100">
         </td>
         <td>
-            <img src="results/register.png" alt="" width="200" height="100">
+            <img src="results/register.png" alt="Image" width="700" height="100">
         </td>
         <td>
-            <img src="results/account.png" alt="" width="200" height="100">
+            <img src="results/account.png" alt="Image" width="700" height="100">
         </td>
         <td>
-            <img src="results/booksDatabase.png" alt="" width="200" height="100">
+            <img src="results/booksDatabase.png" alt="Image" width="700" height="100">
         </td>
     </tr>
     <tr>
@@ -90,10 +90,10 @@ The main files working in backend in the following order :
     </tr>  
     <tr>
         <td>
-            <img src="results/account.png" alt="" width="200" height="100">
+            <img src="results/account.png" alt="Image" width="700" height="100">
         </td>
         <td>
-            <img src="results/booksDatabase.png" alt="" width="200" height="100">
+            <img src="results/booksDatabase.png" alt="Image" width="700" height="100">
         </td>
         <td></td>
         <td></td>
