@@ -27,15 +27,16 @@
 - JSON
 
 ## <a name="Any Requirements?">Any Requirements?</a>
-For the production of ‘ Libsuite ‘ multiple requirements were needed. The main packages that were downloaded/required extra in Django :
-Crispy Forms 
-Pillow Image Library
-	For front end development of  ‘Libsuite’ the following Static files were required :
-.css files
-.scss files
-.js files
+**For the production of ‘ Libsuite ‘ multiple requirements were needed. The main packages that were downloaded/required extra in Django :**
+- Crispy Forms 
+- Pillow Image Library
 
-For the database, we provided a dummy data of list of books using JSON.
+**For front end development of  ‘Libsuite’ the following Static files were required :**
+- .css files
+- .scss files
+- .js files
+
+**For the database, we provided a dummy data of list of books using JSON.**
 
 ## <a name="File Structure?">File Structure?</a>
 The main files working in backend in the following order :
