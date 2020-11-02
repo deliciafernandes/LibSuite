@@ -50,16 +50,16 @@ The main files working in backend in the following order :
 <table style="width:1920px; border: black; margin: 0px auto;" class="skinny" cellspacing="0" cellpadding="0">
     <tr>
         <td>
-            <img src="results/home1.png" alt="" width="400" height="400">
+            <img src="results/home1.png" alt="" width="200" height="100">
         </td>
         <td>
-            <img src="results/home2.png" alt="" width="400" height="400">
+            <img src="results/home2.png" alt="" width="200" height="100">
         </td>
         <td>
-            <img src="results/home3.png" alt="" width="400" height="400">
+            <img src="results/home3.png" alt="" width="200" height="100">
         </td>
         <td>
-            <img src="results/about.png" alt="" width="400" height="400">
+            <img src="results/about.png" alt="" width="200" height="100">
         </td>
     </tr>
     <tr>
@@ -68,19 +68,18 @@ The main files working in backend in the following order :
         <th>Home Page Slider Images</th>
         <th>About Page</th>
     </tr>
-    
     <tr>
         <td>
-            <img src="results/login.png" alt="" width="400" height="400">
+            <img src="results/login.png" alt="" width="200" height="100">
         </td>
         <td>
-            <img src="results/register.png" alt="" width="400" height="400">
+            <img src="results/register.png" alt="" width="200" height="100">
         </td>
         <td>
-            <img src="results/account.png" alt="" width="400" height="400">
+            <img src="results/account.png" alt="" width="200" height="100">
         </td>
         <td>
-            <img src="results/booksDatabase.png" alt="" width="400" height="400">
+            <img src="results/booksDatabase.png" alt="" width="200" height="100">
         </td>
     </tr>
     <tr>
@@ -89,13 +88,12 @@ The main files working in backend in the following order :
         <th>Account Profile</th>
         <th>Issued Database Page</th>
     </tr>  
-    
     <tr>
         <td>
-            <img src="results/account.png" alt="" width="400" height="400">
+            <img src="results/account.png" alt="" width="200" height="100">
         </td>
         <td>
-            <img src="results/booksDatabase.png" alt="" width="400" height="400">
+            <img src="results/booksDatabase.png" alt="" width="200" height="100">
         </td>
         <td></td>
         <td></td>
