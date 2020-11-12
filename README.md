@@ -91,7 +91,7 @@ The main files working in backend in the following order :
     </tr>  
     <tr>
         <td>
-            <img src="results/account.png" alt="Image" width="700" height="100">
+            <img src="results/footer.png" alt="Image" width="700" height="100">
         </td>
         <td>
             <img src="results/booksDatabase.png" alt="Image" width="700" height="100">
