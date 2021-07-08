@@ -10,7 +10,7 @@
 5. <a href="#Results?">Results?</a>
 
 ## <a name="What is LibSuite?">What is LibSuite?</a>
-**‘Libsuite’ is a website that works as a Library Management system.** This website was made so as to help students to access the library better. Students of schools, colleges and universities are ones that make best and most use of a library. But accessing the library can be a little confusing. Where to issue the books from, how to return it, where to find the book needed, etc. are some issues faced by students.‘Libsuite’ is a library management website made in order to settle these problems.
+**‘Libsuite’ is a website that works as a Library Management system.** This website was made so as to help students to access the library better. Students of schools, colleges and universities are ones that make best and most use of a library. But accessing the library can be a little confusing. Where to issue the books from, how to return it, where to find the book needed, etc. are some issues faced by students. ‘Libsuite’ is a library management website made in order to settle these problems.
 
 ## <a name="Tech Stack Involved?">Tech Stack Involved?</a>
 **FRONT END :**
